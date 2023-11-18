@@ -1,4 +1,19 @@
 /*
+ * What you need:
+ * CLion IDE
+ *
+ * Step 1:
+ * Download Zip
+ *
+ * Step 2:
+ * Unzip
+ *
+ * Step 3:
+ * Open main.cpp in CLion
+ *
+ * Step 4:
+ * Done!
+ *
  * It may be useful to access an external variable from within a function. To do that
  * arguments can be passed by reference, instead of by value.
  *
