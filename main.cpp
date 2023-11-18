@@ -27,6 +27,10 @@
  *
  * If instead the parameters were defined without ampersand signs, the variables would not be passed
  * by reference, but by value, creating instead copies of their values.
+ *
+ * This project was written by Alexander John using information obtained from the source below.
+ *
+ * Source: https://cplusplus.com/doc/tutorial/functions/
  */
 
 #include <iostream>
